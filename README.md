@@ -1,0 +1,1 @@
+# Prediksi-EMI-dengan-sinyal-Ramp-dan-Lorenz-pada-SMPS
